@@ -1,4 +1,4 @@
-// .lenght method returns length of string
+// .lenght() method returns length of string
 
 #include <iostream>
 int main (){
