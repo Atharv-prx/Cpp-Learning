@@ -1,3 +1,5 @@
+// .at(n) returns the character at nth position
+
 #include <iostream>
 int main(){
 

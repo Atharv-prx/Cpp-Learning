@@ -1,3 +1,5 @@
+// .insert(n,"something") inserts "something" at nth position
+
 #include <iostream>
 int main(){
 

@@ -1,3 +1,5 @@
+//.empty() Checks wether user inputed string is empty or no
+
 #include <iostream>
 int main(){
 

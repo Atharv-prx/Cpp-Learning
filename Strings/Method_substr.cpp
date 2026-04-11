@@ -1,4 +1,4 @@
-//returns a substring of name starting from 1st index and of length 3
+//.substr(m,n) returns a substring of name starting from mth index and of length n
 
 #include <iostream>
 int main(){

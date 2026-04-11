@@ -1,3 +1,5 @@
+// .clear() Does what it says lol
+
 #include <iostream>
 int main(){
 

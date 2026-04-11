@@ -1,3 +1,5 @@
+// .append(" ") Adds a string to another string
+
 #include <iostream>
 int main(){
 
