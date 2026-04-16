@@ -8,9 +8,9 @@ This repository documents my journey of learning **C++** and building a strong f
 
 ## 📌 About This Repository
 
-* 📚 Contains structured C++ programs from basic to intermediate level
-* 🧠 Focused on problem-solving and logical thinking
-* 📈 Continuously updated as I progress
+* Contains structured C++ programs from basic to intermediate level
+* Focused on problem-solving and logical thinking
+* Continuously updated as I progress
 
 ---
 
