@@ -1,12 +1,12 @@
 # Cpp-Learning 
 
-# 🚀 C++ Learning Journey
+# C++ Learning Journey
 
 This repository documents my journey of learning **C++** and building a strong foundation in **Data Structures & Algorithms (DSA)**.
 
 ---
 
-## 📌 About This Repository
+## About This Repository
 
 * Contains structured C++ programs from basic to intermediate level
 * Focused on problem-solving and logical thinking
@@ -14,7 +14,7 @@ This repository documents my journey of learning **C++** and building a strong f
 
 ---
 
-## 🧠 Topics Covered
+## Topics Covered
 
 ### 🔹 Fundamentals
 
@@ -36,7 +36,7 @@ This repository documents my journey of learning **C++** and building a strong f
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 ```bash
 C++-Learning/
@@ -48,7 +48,7 @@ C++-Learning/
 
 ---
 
-## 🎯 Goals
+## Goals
 
 * Build a strong foundation in **C++**
 * Master **Data Structures & Algorithms**
@@ -57,7 +57,7 @@ C++-Learning/
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * Language: C++
 * Editor: VS Code
@@ -65,7 +65,7 @@ C++-Learning/
 
 ---
 
-## 📈 Progress Tracker
+## Progress Tracker
 
 * ✅ Basics
 * ✅ Conditional Statements
@@ -76,13 +76,13 @@ C++-Learning/
 
 ---
 
-## 🤝 Contributions
+## Contributions
 
 This is a personal learning repository, so contributions are currently not open.
 
 ---
 
-## 📌 Note
+## Note
 
 This repository reflects my continuous learning process. Code quality, structure, and complexity will improve over time.
 
