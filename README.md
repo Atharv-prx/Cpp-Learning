@@ -14,28 +14,6 @@ This repository documents my journey of learning **C++** and building a strong f
 
 ---
 
-## Topics Covered
-
-### 🔹 Fundamentals
-
-* Variables & Data Types
-* Input / Output
-* Operators
-
-### 🔹 Core Concepts
-
-* Conditional Statements (`if-else`, `switch`)
-* Loops (`for`, `while`, `do-while`)
-* Functions
-
-### 🔹 Data Structures (In Progress)
-
-* Arrays
-* Searching Algorithms
-* Sorting Algorithms
-
----
-
 ## Folder Structure
 
 ```bash
@@ -44,6 +22,9 @@ C++-Learning/
 ├── basics/        # Beginner programs with explanations
 ├── loops/         # Loop-based problems
 ├── arrays/        # Array problems (in progress)
+├── function/      # learning about different functions and use cases
+├── strings/       # learning about strings and use cases
+├── time/          # learning how to integrate timer in programs
 ```
 
 ---
@@ -62,17 +43,6 @@ C++-Learning/
 * Language: C++
 * Editor: VS Code
 * Version Control: Git & GitHub
-
----
-
-## Progress Tracker
-
-* ✅ Basics
-* ✅ Conditional Statements
-* ✅ Loops
-* ✅ Functions
-* 🔄 Arrays
-* ⏳ Searching & Sorting
 
 ---
 
