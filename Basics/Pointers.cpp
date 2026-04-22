@@ -16,7 +16,7 @@ int main(){
     std::cout << *pName << '\n'; // accessing the value at the address stored within pointer variable
 
     std::cout << pPokemons << '\n'; // contains the memory address of the first element of the array
-    std::cout << *pPokemons[2] << '\n'; // accessing the value at the address stored within pointer variable
+    std::cout << *pPokemons << '\n'; 
 
     return 0;
 }
