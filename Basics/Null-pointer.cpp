@@ -22,3 +22,5 @@ int main(){
     }
     return 0;
 }
+
+// dereferencing a null pointer will lead to undefined behavior, so it is important to check if a pointer is null before dereferencing it.
