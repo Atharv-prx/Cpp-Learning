@@ -15,3 +15,4 @@ void printnum(){
     int num = 1; //local variable
     std::cout << num << '\n';
 }
+//a function will use local variable first
