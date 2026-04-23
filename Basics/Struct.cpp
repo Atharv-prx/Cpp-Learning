@@ -7,18 +7,31 @@
 struct student{
     std::string name; 
     double gpa;
-    bool enrolled;
+    int iq;
 };
+
+void printStudent(student s);
 
 int main(){
 
     student atigya;
     atigya.name = "Atigya";
-    atigya.gpa = 8.3;
-    atigya.enrolled = true;
+    atigya.gpa = 8.5;
+    atigya.iq = 120;
 
-    std::cout << atigya.name << " has a GPA of " << atigya.gpa << " and is currently " << (atigya.enrolled ? "enrolled" : "not enrolled") << "." << std::endl;
+    student arpit;
+    arpit.name = "arpit";
+    arpit.gpa = 8.3;
+    arpit.iq = 125;
 
-    return 0;
+    printStudent(atigya);
+    printStudent(arpit);
 }
 
+void printStudent(student s){
+    std::cout << "Name: " << s.name << '\n';
+    std::cout << "GPA: " << s.gpa << '\n';
+    std::cout << "IQ: " << s.iq << '\n';
+}   
+// Structs are pass by value, which means that when a struct is passed to a function, a copy of the struct is created. 
+//This can lead to performance issues if the struct is large. To avoid this, you can pass a pointer to the struct instead of the struct itself.
