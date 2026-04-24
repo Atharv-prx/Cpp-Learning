@@ -1,11 +1,5 @@
 # Cpp-Learning 
 
-# C++ Learning Journey
-
-This repository documents my journey of learning **C++** and building a strong foundation in **Data Structures & Algorithms (DSA)**.
-
----
-
 ## About This Repository
 
 * Contains structured C++ programs from basic to intermediate level
